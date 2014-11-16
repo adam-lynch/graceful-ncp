@@ -5,7 +5,7 @@ graceful-ncp
 
 ## Installation
 
-`npm install adam-lynch/graceful-ncp` (for now).
+`npm install graceful-ncp`
 
 ## API
 

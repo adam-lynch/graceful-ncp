@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adam-lynch/graceful-ncp.git"
+  },
+  "homepage": "https://github.com/adam-lynch/graceful-ncp",
+  "bugs": {
+    "url": "https://github.com/adam-lynch/graceful-ncp/issues"
+  },
   "keywords": [
     "ncp",
     "graceful",
