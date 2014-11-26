@@ -9,4 +9,4 @@ graceful-ncp
 
 ## API
 
-The exact same as [ncp's](https://github.com/AvianFlu/ncp).
+The exact same as [ncp](https://github.com/AvianFlu/ncp)'s.
