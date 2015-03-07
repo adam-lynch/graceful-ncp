@@ -1,6 +1,6 @@
 {
   "name": "graceful-ncp",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Asynchronous recursive file copying (with graceful-fs)",
   "main": "index.js",
   "scripts": {
