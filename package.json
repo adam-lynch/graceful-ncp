@@ -25,6 +25,6 @@
   "dependencies": {
     "proxyquire": "^1.4.0",
     "graceful-fs": "^3.0.4",
-    "ncp": "^1.0.1"
+    "ncp": "^2.0.0"
   }
 }
